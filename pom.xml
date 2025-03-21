@@ -12,36 +12,7 @@
     <description>Samples of MyBatis-Plus</description>
 
     <modules>
-        <module>mybatis-plus-sample-quickstart</module>
-        <module>mybatis-plus-sample-quickstart-springmvc</module>
         <module>mybatis-plus-sample-crud</module>
-        <module>mybatis-plus-sample-ddl-mysql</module>
-        <module>mybatis-plus-sample-active-record</module>
-        <module>mybatis-plus-sample-tenant</module>
-        <module>mybatis-plus-sample-enum</module>
-        <module>mybatis-plus-sample-wrapper</module>
-        <module>mybatis-plus-sample-pagination</module>
-        <module>mybatis-plus-sample-auto-fill-metainfo</module>
-        <module>mybatis-plus-sample-sql-injector</module>
-        <module>mybatis-plus-sample-performance-analysis</module>
-        <module>mybatis-plus-startup-analysis</module>
-        <module>mybatis-plus-sample-execution-analysis</module>
-        <module>mybatis-plus-sample-logic-delete</module>
-        <module>mybatis-plus-sample-mysql</module>
-        <module>mybatis-plus-sample-deluxe</module>
-        <module>mybatis-plus-sample-sequence</module>
-        <module>mybatis-plus-sample-optimistic-locker</module>
-        <module>mybatis-plus-sample-dynamic-tablename</module>
-        <module>mybatis-plus-sample-typehandler</module>
-        <module>mybatis-plus-sample-assembly</module>
-        <module>mybatis-plus-sample-resultmap</module>
-        <module>mybatis-plus-sample-id-generator</module>
-        <module>mybatis-plus-sample-id-string</module>
-        <module>mybatis-plus-sample-no-spring</module>
-        <module>mybatis-plus-sample-pagehelper</module>
-        <module>mybatis-plus-sample-association</module>
-        <module>mybatis-plus-sample-jsonb</module>
-        <module>mybatis-plus-sample-kotlin</module>
     </modules>
 
     <properties>

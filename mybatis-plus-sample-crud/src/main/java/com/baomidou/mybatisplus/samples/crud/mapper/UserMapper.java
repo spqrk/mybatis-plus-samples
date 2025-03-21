@@ -14,4 +14,6 @@ import com.baomidou.mybatisplus.samples.crud.entity.User;
  */
 public interface UserMapper extends BaseMapper<User> {
 
+    int insertOne(User user);
+
 }
